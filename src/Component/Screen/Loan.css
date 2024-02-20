@@ -1,0 +1,16 @@
+.loan-body{
+    position: absolute;
+    top: 200px;
+    margin-left: 30%;
+}
+
+.loan-form-con{
+    background-color: #242424;
+    border-radius: 20px;
+    width: 40%;
+    padding: 20px;
+    color: white;
+    height: 400px;
+    
+
+}

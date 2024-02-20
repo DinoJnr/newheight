@@ -1,0 +1,11 @@
+.adminDashboard{
+    position: relative;
+    background-color: white;
+    padding: 50x;
+    top: 200px;
+}
+.card-pic{
+    width: 130px;
+    margin-left: 20%;
+    height: 130px;
+}

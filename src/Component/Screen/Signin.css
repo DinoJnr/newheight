@@ -1,0 +1,113 @@
+
+.signin-tag {
+    color: gray;
+    position: absolute;
+    left: 24%;
+    top: 30px;
+  }
+
+  .design-signin {
+    width: 50%;
+    height: 400px;
+    position: absolute;
+    top: 60px;
+    left: 23%;
+    background-image: linear-gradient(
+      to right,
+      white 0%,
+      white 60%,
+      #242324 60%,
+      #242324 100%
+  
+    );
+    border-top: 2px solid #242324;
+    border-left: 2px solid #242324;
+    border-right: 2px solid #242324;
+    border-bottom: 2px solid #242324;
+    border-radius: 5px;
+    box-shadow:1px 1px 1px 1px black;
+
+  }
+  .signin{
+    position: absolute;
+    top: 160px;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+  }
+  .sign-input{
+    position: absolute;
+    top:105px;
+    left: 14%;
+    text-align: center;
+    border-radius: 20px;
+    border-left: 2px solid  gray;
+    border-right: 2px solid  gray;
+    border-bottom:2px solid   gray;
+    box-shadow:1px 1px 1px 1px gray;
+    outline: none;
+    width: 250px;
+    height: 40px;
+  
+   }
+   .sign-password{
+    position: absolute;
+    top:185px;
+    left: 14%;
+    text-align: center;
+    border-radius: 20px;
+    border-left: 2px solid  gray;
+    border-right: 2px solid  gray;
+    border-bottom:2px solid   gray;
+    box-shadow:1px 1px 1px 1px gray;
+    outline: none;
+    width: 250px;
+    height: 40px;
+   }
+   .forgotten{
+     position: absolute;
+     top:250px;
+     left:20%;
+   }
+  .signin-btn {
+    width: 100px;
+    position: absolute;
+    top: 300px;
+    left: 25%;
+    box-shadow: 1px 1px 1px 1px rgb(48, 91, 121);
+  }
+  .create {
+    font-size: 16px;
+    position: absolute;
+    color: white;
+    top: 120px;
+    left: 8%;
+  }
+ .create-new{
+  position: absolute;
+  left: 60%;
+ }
+ .you-dont-have{
+  color: white;
+  top: 5px;
+  font-size: 20px;
+  position: absolute;
+  left: 4%;
+
+ }
+.signin-sign-up{
+  position: absolute;
+  top: 200px;
+  width: 100px;
+  color: white;
+  height: 50px;
+  left: 14%;
+  background-image: linear-gradient(
+    to right,
+    #3e3d3e 0%,
+    #3e3d3e 50%,
+    #242324 50%,
+    #242324 100%
+
+  );
+}

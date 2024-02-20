@@ -1,0 +1,115 @@
+.savedetails-card {
+  position: absolute;
+  top: 170px;
+  background-color: #242424;
+  width: 28%;
+  height: 230px;
+  border-radius: 10px;
+  left: 3%;
+}
+.savedetails {
+  position: relative;
+  top: 0px;
+  color: white;
+  padding: 10px;
+}
+.saved-savings {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 3%;
+}
+.saveusers-accountnumber {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 3%;
+}
+
+.saaveusers-balance {
+  position: absolute;
+  top: 100px;
+  margin-left: 3%;
+  font-size: 25px;
+}
+.saveusers-name {
+  position: absolute;
+  top: 160px;
+  margin-left: 3%;
+  font-size: 16px;
+}
+.createsave-card{
+    position: absolute;
+    top: 170px;
+    background-color: #242424;
+    width: 28%;
+    height: 230px;
+    border-radius: 10px;
+    left: 65%;
+}
+.saveitems-details{
+    position: relative;
+    top: 0px;
+    color: white;
+    padding: 10px;
+}
+.Thrift-tag{
+    position: absolute;
+    margin-top: 10px;
+    font-size: 30px;
+    margin-left:20%; 
+}
+.create-plan{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 30%;
+    width: 140px;
+}
+.created-plans-savings{
+    position: absolute;
+    top:530px;
+    margin-left: 1%;
+}
+.savecard{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    margin-left: 2%;
+    color: white;
+    background-color: #242424;
+}
+
+.targetamount-text{
+    position: absolute;
+    top: 60px;
+    margin-left: 10%;
+}
+.currentamount-text{
+    position: absolute;
+    top: 100px;
+    margin-left: 10%;
+}
+.thrift-plan-tag{
+    position: absolute;
+    top: 430px;
+    text-align: center;
+    color: gray;
+}
+.edit-plan{
+    
+    width: 100px;
+    margin-left: 5%;
+}
+.delete-plan{
+    width: 110px;
+    margin-left: 7%;
+}
+
+.add-btn{
+    width: 120px;
+    margin-top: 90px;
+    margin-left: 6%;
+}
+.withdrawal-btn{
+    width: 100px;
+    margin-left: 8%;
+    margin-top: 90px;
+}

@@ -1,0 +1,30 @@
+.transaction-box {
+  background-color: #242424;
+  width: 90%;
+  height: 220px;
+  position: absolute;
+  top: 200px;
+  left: 5%;
+  border-radius: 20px;
+}
+
+.transaction-tag {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  margin-top: 20px;
+}
+.transaction-details {
+  color: white;
+  position: absolute;
+  top: 60px;
+  left: 5%;
+}
+.date-time {
+  color: white;
+
+  margin-top: 180px;
+
+  text-align: center;
+}
